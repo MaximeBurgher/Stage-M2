@@ -1,4 +1,4 @@
------------------------------------------------------- Include all the codes written for the Master's thesis ------------------------------------------------------------
+------------------------------------------- Include all the codes written for the Master's thesis -----------------------------------------------
 
   The first part is about the Aharonov-Bohm caging occuring on a quasi 1-D rhombic chain of interacting bosons in presence of pi-flux per plaquette. I calculated the dispersion relation, the classical dynamic (GP equation with interactions acting as non-linear terms) and the quantum dynamics using exact diagonalization methods (with QuSpin).
 The main results are that a destructive interference phenomenon occurs in this lattice geometry freezing the dynamic in the non-linear regime. With quantum fluctuations, a large number of particles tends to freeze also the dynamic for short-time evolution. For non-local interactions, the caging mechanism is detroyed as coupling next-nearest neighbours. 
